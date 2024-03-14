@@ -8,5 +8,6 @@ export const languages = [
     "Go",
     "Kotlin",
     "Erlang",
-    "Rust"
+    "Rust",
+    "Ruby"
 ]
